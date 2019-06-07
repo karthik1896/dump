@@ -1,5 +1,0 @@
-ota-required-cache=0
-ota-type=BLOCK
-post-build=Android/sdm660_64/sdm660_64:8.1.0/OPM1/15.2016.1902.340-20190216:user/release-keys
-post-timestamp=1550288980
-pre-device=ASUS_X00TD
