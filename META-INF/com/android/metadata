@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:322         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Android/sdm660_64/sdm660_64:9/PKQ1/16.2017.2004.063-20200407:user/release-keys
+post-build-incremental=16.2017.2004.063-20200407
+post-sdk-level=28
+post-security-patch-level=2020-04-05
+post-timestamp=1586251362
+pre-device=ASUS_X00TD
