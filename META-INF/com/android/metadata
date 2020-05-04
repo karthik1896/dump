@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:322         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=asus/ASUS_X00TD/ASUS_X00TD:10/QKQ1/17.2017.2004.424-20200414:user/release-keys
+post-build-incremental=17.2017.2004.424-20200414
+post-sdk-level=29
+post-security-patch-level=2020-04-05
+post-timestamp=1586866485
+pre-device=ASUS_X00TD
